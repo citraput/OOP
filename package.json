@@ -1,0 +1,22 @@
+{
+  "name": "oop-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Citra",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^2.12.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "js-sha1": "^0.6.0",
+    "js-sha256": "^0.9.0",
+    "js-sha512": "^0.8.0",
+    "mysql": "^2.17.1",
+    "nedb": "^1.8.0",
+    "smart-buffer": "^4.1.0"
+  }
+}
